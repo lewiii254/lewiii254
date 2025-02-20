@@ -9,6 +9,7 @@ I'm a passionate Software Engineer with a keen interest in web and mobile app de
 
 Feel free to check out my repositories and contributions below!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lewiii254)](https://git.io/streak-stats)
 <!---
 lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
