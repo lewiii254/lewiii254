@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marklewis Mutugi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
 </p>
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast</h3>
 
