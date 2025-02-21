@@ -23,8 +23,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarklewisMutugi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarklewisMutugi&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiii254&theme=radical" />
 </p>
 
 ---
