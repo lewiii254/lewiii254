@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marklewis Mutugi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
+</p>
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast</h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
@@ -31,14 +34,15 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarklewisMutugi&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lewiii254&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 📈 **Top Repositories**
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MarklewisMutugi&repo=your-repo&theme=radical)](https://github.com/MarklewisMutugi/your-repo)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MarklewisMutugi&repo=another-repo&theme=radical)](https://github.com/MarklewisMutugi/another-repo)
+### ✨ Fun Zone
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</p>
 
 ---
 
