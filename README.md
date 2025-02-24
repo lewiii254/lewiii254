@@ -52,13 +52,16 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=compact&theme=radical&langs_count=10)
+
 ---
 
 ## Random Developer Quote 💡
 
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
 
 ### 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewismutugi)
