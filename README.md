@@ -80,6 +80,11 @@
 
 ---
 
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
+
+---
+
 ### ✨ Fun Zone
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
