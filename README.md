@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **[WellnessCheck App](https://github.com/yourrepo)**
 - 🌱 I’m learning **React.js, Next.js, and AI development**
 - 👯 I’m looking to collaborate on **exciting open-source projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewisngondi)** | **[Twitter](https://twitter.com/yourhandle)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewis-ngondi254/)** | **[Twitter](https://x.com/LewiiiTheG)** | **[Email](ngondimarklewis@gmail.com)**
 - ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**
 
 ---
@@ -102,16 +102,17 @@
 
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewismutugi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarklewisMutugi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiii254)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lewiiii_thee_g/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/lewiiiTheeG)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/yourhandle)
 
 ---
 
 ⭐ **Show some love by starring my repos!** 😊  
+
 
 <!---
 lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
