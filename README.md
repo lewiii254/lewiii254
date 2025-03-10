@@ -112,6 +112,13 @@
 
 ---
 
+## Welcome to the Interactive Guestbook! 🚀
+
+Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
+
+[![Guestbook](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/lewiii254/lewiii254/discussions)
+
+---
 ⭐ **Show some love by starring my repos!** 😊  
 
 
