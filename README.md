@@ -90,11 +90,12 @@
 ---
 
 ### ✨ Fun Zone
-<p align="center">
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-</p>
-
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=compact&theme=radical&langs_count=10)
+
+</div>
 
 ---
 
