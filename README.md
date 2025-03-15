@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marklewis Mutugi</h1>
+<h1 align="center">Hi 👋, I'm Marklewis Mutugi</h1
+                                               
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor;fullstack+MERN+Developer;AI+Enthusiast" alt="Typing Animation"/>
 </p>
-<h3 align="center">Software Engineer | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Developer | Tech Enthusiast | FullStack MERN Developer </h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
 
@@ -120,6 +121,15 @@
 
 ---
 ⭐ **Show some love by starring my repos!** 😊  
+
+
+## 🛠️ Projects I'm Proud Of
+| Project            | Stack            | Live Demo                | Repo |
+|----------------|-----------------|---------------------|-------------------|
+| MediAid 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://mediaid.vercel.app) | [Repo](https://github.com/lewiii254/mediaid) |
+| College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://college-marketplace.vercel.app) | [Repo](https://github.com/lewiii254/college-marketplace) |
+| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembeaafrika.vercel.app) | [Repo](https://github.com/lewiii254/tembea-afrika) |
+
 
 
 <!---
