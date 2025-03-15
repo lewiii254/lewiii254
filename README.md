@@ -122,6 +122,7 @@
 ---
 ⭐ **Show some love by starring my repos!** 😊  
 
+---
 
 ## 🛠️ Projects I'm Proud Of
 | Project            | Stack            | Live Demo                | Repo |
@@ -130,7 +131,9 @@
 | College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://college-marketplace.vercel.app) | [Repo](https://github.com/lewiii254/college-marketplace) |
 | Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembeaafrika.vercel.app) | [Repo](https://github.com/lewiii254/tembea-afrika) |
 
-
+---
+## 📈 GitHub Activity Graph  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
