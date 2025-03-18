@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer;Web+Developer;Tech+Enthusiast;Open+Source+Contributor;fullstack+MERN+Developer;Dart+with+flutter+Enthusiast;AI+Enthusiast" alt="Typing Animation"/>
 </p>
+
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast | FullStack MERN Developer </h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
