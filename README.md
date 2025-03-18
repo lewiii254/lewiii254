@@ -141,7 +141,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+-+Software+Engineer;MERN+Stack+Dev+%7C+Next.js;Building+MediAid+%7C+MERN+Bug+Tracker;Future+CTO+in+the+Making+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+-+Software+Engineer;MERN+Stack+Dev+%7C+Next.js;Building+MediAid+%7C+MERN+Bug+Tracker;Dart+flutter+Ethusiast;Future+CTO+in+the+Making+%F0%9F%92%AA" />
 </p>
 
 <!---
