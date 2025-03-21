@@ -133,7 +133,7 @@
 |----------------|-----------------|---------------------|-------------------|
 | MediAid 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://mediaid.vercel.app) | [Repo](https://github.com/lewiii254/mediaid) |
 | College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuza-market.vercel.app/) | [Repo](https://github.com/lewiii254/college-marketplace) |
-| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembeaafrika.vercel.app) | [Repo](https://github.com/lewiii254/tembea-afrika) |
+| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembea-africa.vercel.app/) | [Repo](https://github.com/lewiii254/tembea-afrika) |
 
 ---
 ## 📈 GitHub Activity Graph  
