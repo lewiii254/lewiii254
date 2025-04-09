@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
 
 - 🔭 I’m currently working on **[WellnessCheck App](https://github.com/yourrepo)**
-- Visit my Portfolio Website at👉**[Portfolio](https://marklewis-verse-folio.vercel.app/)**
+- 🌐Visit my Portfolio Website at👉 **[Portfolio✨](https://marklewis-verse-folio.vercel.app/)**
 - 🌱 I’m learning **React.js, Next.js, and AI development**
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewis-ngondi254/)** | **[Twitter](https://x.com/LewiiiTheG)** | **[Email](ngondimarklewis@gmail.com)**
