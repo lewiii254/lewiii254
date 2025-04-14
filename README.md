@@ -138,7 +138,7 @@
 | Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembea-africa.vercel.app/) | [Repo](https://github.com/lewiii254/safaricom-hook-final-project-and-deployment-week-8-lewiii254) |
 
 ---
-## 📈 GitHub Activity Graph  
+## 📈 GitHub Activity Graph💹  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
