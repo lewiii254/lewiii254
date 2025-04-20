@@ -132,6 +132,7 @@
 ## 🛠️ Projects I'm Proud Of
 | Project            | Stack            | Live Demo                | Repo |
 |----------------|-----------------|---------------------|-------------------|
+| 🌿 AI Crop Doctor 🤖    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://shamba-smart-scan.vercel.app/) | [Repo](https://github.com/lewiii254/shamba-smart-scan.git) |
 | Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://kazi-haven.vercel.app/) | [Repo](https://github.com/lewiii254/Kazi-Haven.git) |
 | AkiliSpa Mental Health 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://akili-wellness-hub.vercel.app/) | [Repo](https://github.com/lewiii254/akili-wellness-hub.git) |
 | College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuzamarket2.vercel.app/) | [Repo](https://github.com/lewiii254/uni-market-finds.git) |
