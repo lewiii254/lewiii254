@@ -145,6 +145,15 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+</picture>
+
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+-+Software+Engineer;MERN+Stack+Dev+%7C+Next.js;Building+MediAid+%7C+MERN+Bug+Tracker;Dart+flutter+Ethusiast;Future+CTO+in+the+Making+%F0%9F%92%AA" />
 </p>
