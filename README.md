@@ -145,6 +145,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+## 🐍 Slither Into My Code Kingdom😂
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
