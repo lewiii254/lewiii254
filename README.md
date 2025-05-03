@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewis-ngondi254/)** | **[Twitter](https://x.com/LewiiiTheG)** | **[Email](ngondimarklewis@gmail.com)**
 - ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**
-- 🎥 Recently Started a Youtube Tech Channel😁🚀
+- 🎥 Recently Started a Youtube Tech Channel😁🚀 [Subscribe🙏🙌](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)
 
 ---
 
