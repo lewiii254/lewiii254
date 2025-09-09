@@ -9,13 +9,18 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
 
-- 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**
-- 🌐Visit my Portfolio Website at👉 **[Portfolio✨](https://marklewis-verse-folio.vercel.app/)**
-- 🌱 I’m learning **React.js, Next.js, and AI development**
-- 👯 I’m looking to collaborate on **exciting open-source projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewis-ngondi254/)** | **[Twitter](https://x.com/LewiiiTheG)** | **[Email](ngondimarklewis@gmail.com)**
-- ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**
-- 🎥 Recently Started a Youtube Tech Channel😁🚀 [Subscribe🙏🙌](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)
+## 👨‍💻 About Me  
+
+- 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**  
+- 🌐 Visit my Portfolio 👉 **[Portfolio✨](https://marklewis-verse-folio.vercel.app/)**  
+- 🌱 I’m learning **React.js, Next.js, and AI development**  
+- 👯 I’m looking to collaborate on **exciting open-source projects**  
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngondimarklewis@gmail.com)  
+- ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**  
+- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)  
 
 ---
 
