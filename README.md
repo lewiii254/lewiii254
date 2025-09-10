@@ -123,12 +123,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 ### ✨ Fun Zone
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=compact&theme=radical&langs_count=10)
-
 </div>
-
----
 
 ## Random Developer Quote 💡
 
