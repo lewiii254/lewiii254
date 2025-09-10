@@ -74,14 +74,32 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 ---
+<div align="center">
 
-### 📊 **GitHub Stats**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiii254&theme=radical&cache_seconds=86400" />
+<table>
+<tr>
+<td width="33%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
+</td>
+<td width="33%">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lewiii254&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lewiii254&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -97,6 +115,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
 <a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+</div>
 
 ---
 
