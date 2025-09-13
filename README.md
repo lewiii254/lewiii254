@@ -115,7 +115,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
 <a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+[![committers.top badge](https://user-badge.committers.top/kenya/lewiii254.svg)](https://user-badge.committers.top/kenya/lewiii254)
 </div>
 
 ---
