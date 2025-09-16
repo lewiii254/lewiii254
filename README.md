@@ -116,6 +116,8 @@
 <a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![committers.top badge](https://user-badge.committers.top/kenya/lewiii254.svg)](https://user-badge.committers.top/kenya/lewiii254)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/lewiii254&label=Stars&query=$.stars&color=brightgreen&logo=github)
+
 </div>
 
 ---
