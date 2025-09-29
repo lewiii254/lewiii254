@@ -7,12 +7,29 @@
 
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast | FullStack MERN Developer </h3>
 
+## 🚀 **NEW: Interactive Portfolio Website!**
+
+### 🎯 **Just Launched**: [**Interactive Portfolio Dashboard**](https://lewiii254.github.io/lewiii254/) ✨
+
+**🔥 Features:**
+- ⚡ **Smooth Client-Side Routing** - Navigate seamlessly between pages
+- 🎨 **Interactive Project Filtering** - Filter projects by technology stack
+- 📊 **GitHub Activity Dashboard** - Real-time coding metrics and achievements  
+- 🎮 **Gamified Experience** - Coding levels, streaks, and achievement badges
+- 📱 **Fully Responsive Design** - Perfect on all devices
+- 🎪 **Hidden Easter Eggs** - Try the Konami code and discover secrets!
+
+[![Visit Interactive Portfolio](https://img.shields.io/badge/🚀%20Interactive%20Portfolio-Visit%20Now-00C4CC?style=for-the-badge&logo=react&logoColor=white)](https://lewiii254.github.io/lewiii254/)
+
+---
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
 
 ## 👨‍💻 About Me  
 
 - 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**  
-- 🌐 Visit my Portfolio 👉 **[Portfolio✨](https://marklewis-verse-folio.vercel.app/)**  
+- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://lewiii254.github.io/lewiii254/)**  
+- 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
 - 📫 How to reach me:  
