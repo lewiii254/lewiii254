@@ -7,20 +7,6 @@
 
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast | FullStack MERN Developer </h3>
 
-## 🚀 **NEW: Interactive Portfolio Website!**
-
-### 🎯 **Just Launched**: [**Interactive Portfolio Dashboard**](https://lewiii254.github.io/lewiii254/) ✨
-
-**🔥 Features:**
-- ⚡ **Smooth Client-Side Routing** - Navigate seamlessly between pages
-- 🎨 **Interactive Project Filtering** - Filter projects by technology stack
-- 📊 **GitHub Activity Dashboard** - Real-time coding metrics and achievements  
-- 🎮 **Gamified Experience** - Coding levels, streaks, and achievement badges
-- 📱 **Fully Responsive Design** - Perfect on all devices
-- 🎪 **Hidden Easter Eggs** - Try the Konami code and discover secrets!
-
-[![Visit Interactive Portfolio](https://img.shields.io/badge/🚀%20Interactive%20Portfolio-Visit%20Now-00C4CC?style=for-the-badge&logo=react&logoColor=white)](https://lewiii254.github.io/lewiii254/)
-
 ---
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
