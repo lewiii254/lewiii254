@@ -151,6 +151,8 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/lewiiiTheeG)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code-with-lewii?si=-ryAFFjy26FaUM6P)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
+[![Devfolio Badge](https://img.shields.io/badge/Devfolio-Profile-blue?style=for-the-badge&logo=devdotto)](https://devfolio.co/@LewiiiTheeeG)
+
 
 ---
 
