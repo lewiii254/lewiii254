@@ -167,6 +167,65 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 ---
 <div align = "center">
+
+## 💼 SaaS Projects Portfolio
+
+### Healthcare & Mental Wellness
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **AkiliSpa Mental Health** 🧠 | Holistic mental health platform with AI-powered support, community-driven care, and M-Pesa payment integration for accessible mental health services across Africa | MERN Stack, TypeScript, AI Integration, M-Pesa API | [View](https://akili-wellness-hub.vercel.app/) |
+
+### Agriculture & Food Systems
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **AI Crop Doctor** 🌿🤖 | AI-powered platform for crop disease detection with instant diagnoses and expert-validated treatment plans. Snap a photo and get real-time farming solutions | React, Supabase, AI/ML, Tailwind CSS | [View](https://shamba-smart-scan.vercel.app/) |
+| **FARM-CONNECT.KE** 👩‍🌾🌱 | Revolutionary digital platform connecting Kenya's 6 million smallholder farmers with profitable markets, providing real-time pricing data and market access | React, Supabase, AI, Maps API, TypeScript | [View](https://farm-connect-market-wise.vercel.app/) |
+| **Agro-Regen-AI** 🌱💚 | Agricultural regeneration platform with AI-powered insights, learning hub, and comprehensive farming resources for sustainable agriculture | Supabase, AI, TypeScript, APIs | [View](https://agro-regen-ai.vercel.app/learning-hub) |
+
+### Job & Skills Marketplaces
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Kazi-Haven** 👩‍🏫🚀 | Ultimate job portal connecting talented professionals with opportunities across Africa. Features advanced job matching and career development tools | MERN Stack, Tailwind CSS, Job Portal APIs | [View](https://kazi-haven.vercel.app/) |
+| **Kuza-Skills** 💻💸🚀 | Comprehensive digital skills platform empowering African youth with practical tech skills, certifications, and M-Pesa payment integration for accessible education | MERN Stack, Next.js, Firebase Auth, M-Pesa | [View](https://digital-skill-stride.vercel.app/) |
+| **Tech Genesis Academy** 🎓 | Modern educational platform offering comprehensive tech courses and skill development programs for aspiring developers | TypeScript, Modern Web Stack | [View](https://tech-genesis-academy.vercel.app/) |
+
+### E-Commerce & Marketplace Solutions
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **College Marketplace (Kuza Market)** 🛍️ | Modern digital platform connecting sellers and buyers across college campuses, simplifying second-hand goods transactions with secure payments | MERN Stack, Next.js, Firebase Auth, TypeScript | [View](https://kuzamarket2.vercel.app/) |
+
+### Environmental & Sustainability
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Taka-Smart Rewards** 🚮💚🌍 | Gamified waste management system incentivizing recycling through rewards, real-time tracking, and community engagement for environmental sustainability | MERN Stack, Next.js, Firebase Auth, TypeScript | [View](https://taka-smart-rewards.vercel.app/) |
+| **WasteAI Nexus** ♻️🤖 | AI-powered waste management platform with intelligent sorting, collection optimization, and environmental impact tracking | TypeScript, AI/ML, Modern Stack | [View](https://wasteai-nexus.vercel.app/) |
+| **RecyLink** 🔗♻️ | Gamified waste management system connecting households, collectors, and recycling centers with real-time tracking and reward mechanisms | JavaScript, Gamification, Web APIs | [View](https://recy-link.vercel.app/) |
+
+### Energy & Utilities
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Green Wells Connect** ⚡💚 | Revolutionary LPG delivery service with real-time tracking, instant M-Pesa payments, and predictive safety systems for efficient gas distribution | TypeScript, Real-time APIs, M-Pesa Integration | [View](https://green-wells-connect.vercel.app/) |
+
+### Community & Social
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Church Digital System** 🙏⛪ | Modern, responsive digital platform for Wonders of God Church, connecting community through faith, worship, fellowship, and event management | TypeScript, Modern Web Stack, CMS | [View](https://church-digital-system.vercel.app/) |
+
+### Food & Hospitality
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Reinvent Your Leftovers** 🍽️♻️ | Innovative platform helping users create delicious meals from leftover ingredients, reducing food waste through AI-powered recipe suggestions | TypeScript, AI Recipe Engine, Web APIs | [View](https://reinvent-your-leftovers.vercel.app/) |
+| **Poultry Farm (FarmFresh)** 🐔🥚 | Premium poultry products website showcasing fresh farm products with online ordering and delivery management system | TypeScript, E-commerce APIs | [View](https://poultry-farm-tawny.vercel.app/) |
+
+### Travel & Tourism
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Tembea Afrika** 🗺️✈️ | Travel application showcasing African destinations with Google Maps integration, trip planning, and cultural exploration features | React, Tailwind CSS, Google Maps API | [View](https://tembea-africa.vercel.app/) |
+
+</div>
+
+---
+<div align = "center">
   
 ## 🛠️ Projects I'm Proud Of
 | Project            | Stack            | Live Demo                | Repo |
