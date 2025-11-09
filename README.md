@@ -174,7 +174,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 | 🌿 AI Crop Doctor 🤖    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://shamba-smart-scan.vercel.app/) | [Repo](https://github.com/lewiii254/shamba-smart-scan.git) |
 | FARM-CONNECT.KE👩‍🌾🌱    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://farm-connect-market-wise.vercel.app/) | [Repo](https://github.com/lewiii254/farm-connect-market-wise.git) |
 | AkiliSpa Mental Health 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://akili-wellness-hub.vercel.app/) | [Repo](https://github.com/lewiii254/akili-wellness-hub.git) |
-| Agro-Regen-AI🌱💚   | Supaabse, AI, APIs, Typescript | [Live](https://agro-regen-ai.vercel.app/learning-hub) | [Repo](https://github.com/lewiii254/agro-regen-ai.git) |
+| Agro-Regen-AI🌱💚   | Supaabse, AI, APIs, Typescript | [Live](https://agro-regen-ai.vercel.app/) | [Repo](https://github.com/lewiii254/agro-regen-ai.git) |
 | Kuza-Skills💻💸🚀 | MERN Stack, Next.js, Firebase Auth | [Live](https://digital-skill-stride.vercel.app/) | [Repo](https://github.com/lewiii254/digital-skill-stride.git) |
 | Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://kazi-haven.vercel.app/) | [Repo](https://github.com/lewiii254/Kazi-Haven.git) |
 | College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuzamarket2.vercel.app/) | [Repo](https://github.com/lewiii254/uni-market-finds.git) |
