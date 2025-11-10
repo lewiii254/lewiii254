@@ -168,10 +168,10 @@
           <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
         </a><br>CSS3
       </td>
-      <td align="center" width="90">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" />
-        </a><br>JavaScript
+        <td align="center" width="90">
+        <a href="https://git-scm.com/">
+          <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        </a><br>Git
       </td>
        <td align="center" width="90">
         <a href="https://reactnative.dev/">
@@ -189,9 +189,9 @@
         </a><br>Express.js
       </td>
         <td align="center" width="90">
-        <a href="https://pandas.pydata.org/">
-          <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="Pandas" />
-        </a><br>Pandas
+        <a href="https://www.figma.com/">
+          <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        </a><br>Figma
       </td>
       <td align="center" width="90">
         <a href="https://www.djangoproject.com/">
