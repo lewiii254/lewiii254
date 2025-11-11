@@ -20,11 +20,16 @@
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-mutugi-1b8124370/)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngondimarklewis@gmail.com)  
 - ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)  
+<div align="center">
+<a href="https://github.com/sponsors/lewiii254" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor lewiii254 on GitHub">
+</a>
+</div>  
 
 ---
 
