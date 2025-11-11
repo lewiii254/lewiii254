@@ -336,7 +336,12 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
 [![Devfolio Badge](https://img.shields.io/badge/Devfolio-Profile-blue?style=for-the-badge&logo=devdotto)](https://devfolio.co/@LewiiiTheeeG)
 
-
+<div align="center">
+<a href="https://github.com/sponsors/lewiii254" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor lewiii254 on GitHub">
+</a>
+</div>  
+    
 ---
 
 ## Welcome to the Interactive Guestbook! 🚀
