@@ -15,7 +15,8 @@
 ## 👨‍💻 About Me  
 
 - 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**  
-- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://marklewis-verse-folio.vercel.app/)**  
+- 🌐 Visit my **Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://marklewis-verse-folio.vercel.app/)**
+- Building my Terminal Portfolio version too Check it out too😁😁😅 **[TERMINAL PORTFOLIO](https://marklewisdev.vercel.app/)**
 - 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
