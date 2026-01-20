@@ -8,11 +8,13 @@ class Router {
 
     init() {
         // Register routes
-        this.registerRoute('home', () => this.showPage('home'));
-        this.registerRoute('portfolio', () => this.showPage('portfolio'));
-        this.registerRoute('activity', () => this.showPage('activity'));
-        this.registerRoute('about', () => this.showPage('about'));
-        this.registerRoute('contact', () => this.showPage('contact'));
+        this.registerRoute('/', () => this.showPage('home'));
+        this.registerRoute('/home', () => this.showPage('home'));
+        this.registerRoute('/portfolio', () => this.showPage('portfolio'));
+        this.registerRoute('/activity', () => this.showPage('activity'));
+        this.registerRoute('/about', () => this.showPage('about'));
+        this.registerRoute('/contact', () => this.showPage('contact'));
+        this.registerRoute('/admin', () => this.showPage('admin'));
 
         // Handle initial route
         this.handleRoute();
@@ -29,12 +31,12 @@ class Router {
     }
 
     handleRoute() {
-        const hash = window.location.hash.slice(1) || 'home';
-        const handler = this.routes.get(hash);
+        const path = window.location.pathname || '/';
+        const handler = this.routes.get(path);
         
         if (handler) {
             handler();
-            this.currentPage = hash;
+            this.currentPage = path.slice(1) || 'home';
         } else {
             // Default to home if route not found
             this.showPage('home');
@@ -60,9 +62,10 @@ class Router {
         // Initialize page-specific functionality
         this.initPageFeatures(pageId);
 
-        // Update browser history
-        if (window.location.hash !== `#${pageId}`) {
-            history.pushState(null, null, `#${pageId}`);
+        // Update browser history with path-based routing
+        const path = pageId === 'home' ? '/' : `/${pageId}`;
+        if (window.location.pathname !== path) {
+            history.pushState(null, null, path);
         }
     }
 
@@ -81,7 +84,7 @@ class Router {
             element.addEventListener('click', (e) => {
                 e.preventDefault();
                 const pageId = element.dataset.page;
-                window.location.hash = pageId;
+                this.showPage(pageId);
             });
         });
 

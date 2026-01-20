@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        // GitHub Pages SPA redirect handler
+        // Check if we were redirected from 404.html
+        (function(){
+            var redirect = sessionStorage.redirect;
+            delete sessionStorage.redirect;
+            if (redirect && redirect !== location.pathname) {
+                history.replaceState(null, null, redirect);
+            }
+        })();
+    </script>
 </head>
 <body>
     <!-- Navigation Header -->
@@ -17,11 +28,11 @@
                 <span>Marklewis Mutugi</span>
             </div>
             <ul class="nav-menu">
-                <li><a href="#home" class="nav-link active" data-page="home">Home</a></li>
-                <li><a href="#portfolio" class="nav-link" data-page="portfolio">Portfolio</a></li>
-                <li><a href="#activity" class="nav-link" data-page="activity">GitHub Activity</a></li>
-                <li><a href="#about" class="nav-link" data-page="about">About</a></li>
-                <li><a href="#contact" class="nav-link" data-page="contact">Contact</a></li>
+                <li><a href="/" class="nav-link active" data-page="home">Home</a></li>
+                <li><a href="/portfolio" class="nav-link" data-page="portfolio">Portfolio</a></li>
+                <li><a href="/activity" class="nav-link" data-page="activity">GitHub Activity</a></li>
+                <li><a href="/about" class="nav-link" data-page="about">About</a></li>
+                <li><a href="/contact" class="nav-link" data-page="contact">Contact</a></li>
             </ul>
             <div class="hamburger">
                 <span></span>
@@ -546,6 +557,150 @@
                             <i class="fas fa-book"></i>
                             Sign Guestbook
                         </a>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Admin Page -->
+        <div id="admin" class="page">
+            <section class="admin-hero">
+                <h1>Admin Dashboard</h1>
+                <p>Portfolio Management & Analytics</p>
+            </section>
+
+            <section class="admin-content">
+                <div class="admin-grid">
+                    <div class="admin-card">
+                        <div class="admin-card-header">
+                            <i class="fas fa-chart-line"></i>
+                            <h3>Site Analytics</h3>
+                        </div>
+                        <div class="admin-card-body">
+                            <div class="stat-row">
+                                <span>Total Visits:</span>
+                                <strong>12,543</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>This Month:</span>
+                                <strong>2,847</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Avg. Session:</span>
+                                <strong>3m 42s</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="admin-card">
+                        <div class="admin-card-header">
+                            <i class="fas fa-envelope"></i>
+                            <h3>Contact Messages</h3>
+                        </div>
+                        <div class="admin-card-body">
+                            <div class="stat-row">
+                                <span>Unread:</span>
+                                <strong>5</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Total:</span>
+                                <strong>127</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Response Rate:</span>
+                                <strong>98%</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="admin-card">
+                        <div class="admin-card-header">
+                            <i class="fas fa-code-branch"></i>
+                            <h3>GitHub Stats</h3>
+                        </div>
+                        <div class="admin-card-body">
+                            <div class="stat-row">
+                                <span>Repositories:</span>
+                                <strong>42</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Stars Earned:</span>
+                                <strong>156</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Followers:</span>
+                                <strong>234</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="admin-card">
+                        <div class="admin-card-header">
+                            <i class="fas fa-project-diagram"></i>
+                            <h3>Projects</h3>
+                        </div>
+                        <div class="admin-card-body">
+                            <div class="stat-row">
+                                <span>Active:</span>
+                                <strong>3</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Completed:</span>
+                                <strong>15</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>In Planning:</span>
+                                <strong>2</strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="admin-actions">
+                    <h2>Quick Actions</h2>
+                    <div class="action-buttons">
+                        <button class="btn btn-primary">
+                            <i class="fas fa-plus"></i>
+                            Add New Project
+                        </button>
+                        <button class="btn btn-secondary">
+                            <i class="fas fa-edit"></i>
+                            Edit Portfolio
+                        </button>
+                        <button class="btn btn-secondary">
+                            <i class="fas fa-download"></i>
+                            Export Data
+                        </button>
+                        <button class="btn btn-secondary">
+                            <i class="fas fa-cog"></i>
+                            Settings
+                        </button>
+                    </div>
+                </div>
+
+                <div class="admin-recent">
+                    <h2>Recent Activity</h2>
+                    <div class="activity-list">
+                        <div class="activity-item">
+                            <i class="fas fa-user"></i>
+                            <span>New visitor from Nairobi, Kenya</span>
+                            <span class="activity-time">2 mins ago</span>
+                        </div>
+                        <div class="activity-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>New contact message received</span>
+                            <span class="activity-time">15 mins ago</span>
+                        </div>
+                        <div class="activity-item">
+                            <i class="fas fa-star"></i>
+                            <span>Project starred on GitHub</span>
+                            <span class="activity-time">1 hour ago</span>
+                        </div>
+                        <div class="activity-item">
+                            <i class="fas fa-code"></i>
+                            <span>Portfolio updated successfully</span>
+                            <span class="activity-time">3 hours ago</span>
+                        </div>
                     </div>
                 </div>
             </section>
