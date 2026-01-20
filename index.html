@@ -16,6 +16,16 @@
             if (redirect && redirect !== location.pathname) {
                 history.replaceState(null, null, redirect);
             }
+            
+            // Also check for query parameter redirect (backup method)
+            var query = window.location.search;
+            if (query) {
+                var match = query.match(/[?&]p=([^&]*)/);
+                if (match) {
+                    var path = '/' + match[1];
+                    history.replaceState(null, null, path);
+                }
+            }
         })();
     </script>
 </head>
