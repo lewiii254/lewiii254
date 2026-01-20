@@ -7,8 +7,18 @@
     <script>
         // GitHub Pages SPA redirect handler
         // This script takes the current URL and redirects to index.html with the path as a query parameter
-        sessionStorage.redirect = location.pathname;
-        location.replace(location.origin + '/?p=' + location.pathname.slice(1));
+        // Only store the pathname if it's a valid route
+        var allowedRoutes = ['/', '/home', '/portfolio', '/activity', '/about', '/contact', '/admin'];
+        var pathname = location.pathname;
+        
+        // Validate pathname to prevent open redirects
+        if (allowedRoutes.indexOf(pathname) !== -1) {
+            sessionStorage.redirect = pathname;
+            location.replace(location.origin + '/?p=' + pathname.slice(1));
+        } else {
+            // Invalid route, redirect to home
+            location.replace(location.origin);
+        }
     </script>
 </head>
 <body>

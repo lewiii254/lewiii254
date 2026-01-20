@@ -11,10 +11,19 @@
         // GitHub Pages SPA redirect handler
         // Check if we were redirected from 404.html
         (function(){
+            // Define allowed routes for security
+            var allowedRoutes = ['/', '/home', '/portfolio', '/activity', '/about', '/contact', '/admin'];
+            
             var redirect = sessionStorage.redirect;
             delete sessionStorage.redirect;
             if (redirect && redirect !== location.pathname) {
-                history.replaceState(null, null, redirect);
+                // Validate redirect path is allowed
+                if (allowedRoutes.indexOf(redirect) !== -1) {
+                    history.replaceState(null, null, redirect);
+                } else {
+                    // Invalid route, default to home
+                    history.replaceState(null, null, '/');
+                }
             }
             
             // Also check for query parameter redirect (backup method)
@@ -23,7 +32,13 @@
                 var match = query.match(/[?&]p=([^&]*)/);
                 if (match) {
                     var path = '/' + match[1];
-                    history.replaceState(null, null, path);
+                    // Validate the path is allowed
+                    if (allowedRoutes.indexOf(path) !== -1) {
+                        history.replaceState(null, null, path);
+                    } else {
+                        // Invalid route, default to home
+                        history.replaceState(null, null, '/');
+                    }
                 }
             }
         })();
