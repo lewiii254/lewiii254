@@ -18,7 +18,7 @@
             delete sessionStorage.redirect;
             if (redirect && redirect !== location.pathname) {
                 // Validate redirect path is allowed
-                if (allowedRoutes.indexOf(redirect) !== -1) {
+                if (allowedRoutes.includes(redirect)) {
                     history.replaceState(null, null, redirect);
                 } else {
                     // Invalid route, default to home
@@ -33,7 +33,7 @@
                 if (match) {
                     var path = '/' + match[1];
                     // Validate the path is allowed
-                    if (allowedRoutes.indexOf(path) !== -1) {
+                    if (allowedRoutes.includes(path)) {
                         history.replaceState(null, null, path);
                     } else {
                         // Invalid route, default to home

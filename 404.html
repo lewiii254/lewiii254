@@ -12,7 +12,7 @@
         var pathname = location.pathname;
         
         // Validate pathname to prevent open redirects
-        if (allowedRoutes.indexOf(pathname) !== -1) {
+        if (allowedRoutes.includes(pathname)) {
             sessionStorage.redirect = pathname;
             location.replace(location.origin + '/?p=' + pathname.slice(1));
         } else {
