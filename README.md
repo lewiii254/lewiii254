@@ -130,30 +130,55 @@ fun_fact: Chelsea FC 💙 supporter who codes through every match
 
 ## `$ git log --stats`
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=radical" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=lewiii254&theme=radical&hide_border=false" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=lewiii254&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+<table>
+<tr>
+<td width="33%">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
+</td>
+<td width="33%">
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lewiii254&theme=transparent" />
 
----
+</td>
+<td width="33%">
 
-## `$ cat achievements.txt`
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lewiii254&theme=transparent&utc_offset=5.5" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lewiii254&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
-</div>
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
 ## `$ tail -f activity.log`
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+## `$ ./snake --eat-contributions`
+
+> *Every green square was a commit. The snake never lies.* 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
