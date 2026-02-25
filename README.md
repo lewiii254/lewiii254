@@ -41,7 +41,15 @@ focus:
 currently_building: WellnessCheck App (AkiliSpa Mental Health)
 learning: Advanced React patterns · Next.js · AI/ML integration
 open_to: Collaborations on exciting open-source projects
-fun_fact: Chelsea FC 💙 supporter who codes through every match
+funFacts: [
+    "Chelsea FC 💙 supporter who codes through every match",
+    "YouTube Tech Educator 🎥 — @code-with-lewii",
+    "Harvard ALP '25 Scholar 🎓",
+    "while(alive) { eat(); sleep(); code(); repeat(); }"
+  ],
+
+  motto: () => "Ship fast. Learn faster. Build for Africa. 🚀"
+};
 ```
 
 <div align="center">
@@ -187,6 +195,24 @@ fun_fact: Chelsea FC 💙 supporter who codes through every match
 
 ---
 
+## `$ sudo fortune | cowsay` 💡
+
+```bash
+┌─[ marklewis@github ]─[ ~/wisdom ]
+└─$ sudo apt install developer-wisdom && fortune | cowsay
+  
+  Fetching quote from /dev/brain... ████████████████████ 100%
+```
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+```bash
+  Process completed. Exit code: 0 ✅
+  >> "Code is poetry. Ship it." — marklewis@github
+```
+
+---
+
 ## `$ git commit -m "leave a message"`
 
 > Got feedback, ideas, or just want to say hello? Drop a note in the guestbook!
@@ -219,5 +245,9 @@ fun_fact: Chelsea FC 💙 supporter who codes through every match
 
 
 [![lewiii254](https://user-badge.committers.top/kenya/lewiii254.svg)](https://user-badge.committers.top/kenya/lewiii254)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+</p>
 
 </div>
