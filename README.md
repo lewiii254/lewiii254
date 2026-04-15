@@ -142,8 +142,11 @@ funFacts: [
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=lewiii254&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=lewiii254&theme=radical&hide_border=false" />
+ <a href="https://github.com/lewiii254">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lewiii254&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/lewiii254">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=lewiii254&theme=radical&hide_border=true&background=0d1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&border_radius=10" alt="GitHub Streak" />
 
 <table>
 <tr>
