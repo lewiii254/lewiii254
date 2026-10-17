@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-marklewis--verse--folio.vercel.app-00D4FF?style=for-the-badge&labelColor=0d1117)](https://marklewis-verse-folio.vercel.app/)
-[![Terminal Portfolio](https://img.shields.io/badge/⚡_Terminal_Portfolio-marklewisdev.vercel.app-7C3AED?style=for-the-badge&labelColor=0d1117)](https://marklewisdev.vercel.app/)
+[![Terminal Portfolio](https://img.shields.io/badge/⚡_Terminal_Portfolio-marklewisdev.vercel.app-7C3AED?style=for-the-badge&labelColor=0d1117)](https://marklewis.tech/)
 [![YouTube](https://img.shields.io/badge/▶_YouTube-code--with--lewii-FF0000?style=for-the-badge&labelColor=0d1117)](https://youtube.com/@code-with-lewii)
 
 <br/>
